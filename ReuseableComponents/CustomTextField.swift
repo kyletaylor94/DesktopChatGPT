@@ -21,7 +21,7 @@ struct CustomTextField: View{
                     .opacity(0.5)
             }
             TextField("", text: $text)
-               // .focused($prompt)
+               
                 .focusable(true)
                 
                 .cornerRadius(10)

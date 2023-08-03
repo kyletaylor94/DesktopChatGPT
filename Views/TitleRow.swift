@@ -47,7 +47,6 @@ struct titleRow: View {
                 Image(systemName: "mic.fill")
                     .font(.system(size: 15))
                     .foregroundColor(.black)
-                   // .background(.white)
                     .cornerRadius(40)
             }
             
@@ -58,7 +57,6 @@ struct titleRow: View {
                 Image(systemName: "trash")
                     .font(.system(size: 15))
                     .foregroundColor(.black)
-                    //.background(.white)
                     .cornerRadius(40)
             }
 
