@@ -1,4 +1,8 @@
 #  DesktopChatGPT - Simple macOS Desktop ChatGPT App
+![Képernyőfotó 2023-07-30 - 8 58 30](https://github.com/kyletaylor94/DesktopChatGPT/assets/113541369/c5a87cde-6af7-43e8-b49d-fe2fd4775140)
+
+![Képernyőfotó 2023-07-30 - 8 59 30](https://github.com/kyletaylor94/DesktopChatGPT/assets/113541369/56ee2961-01e6-4237-8c24-1eca1bc8a41e)
+
 
 # Description:
 Welcome to DesktopChatGPT, a user-friendly macOS desktop application that leverages the power of OpenAI's ChatGPT API! This app allows you to engage in interactive and dynamic conversations with the state-of-the-art language model provided by OpenAI.
